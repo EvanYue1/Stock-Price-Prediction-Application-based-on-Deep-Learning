@@ -185,15 +185,10 @@ The system workflow integrates frontend requests, backend processing, neural net
 * New stocks trigger data collection & model training
 * Efficient model management prevents repeated loading
 
----
-
-## Prediction Effect
-
-
 
 ---
 
-## effect display:
+## Effect display:
 
 * Stock Symbol: 000869.SZ
 * Prediction Days: 3
