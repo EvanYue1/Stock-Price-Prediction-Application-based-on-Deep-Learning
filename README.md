@@ -207,8 +207,6 @@ The system workflow integrates frontend requests, backend processing, neural net
 
 
 
-
-
 * Stock Symbol: 000869.SZ
 * Prediction Days: 3
 * Units: Day
@@ -217,6 +215,17 @@ The system workflow integrates frontend requests, backend processing, neural net
 <img width="1440" height="786" alt="Screenshot 2025-08-19 at 6 29 45 PM" src="https://github.com/user-attachments/assets/db4298a6-60b2-4042-8a2b-f3a7c8ed267d" />
 <img width="1439" height="831" alt="Screenshot 2025-08-19 at 6 29 59 PM" src="https://github.com/user-attachments/assets/7cf2f9e6-4d95-4d30-865a-271c2249e41d" />
 <img width="1439" height="832" alt="Screenshot 2025-08-19 at 6 30 13 PM" src="https://github.com/user-attachments/assets/292885d0-b01f-42e4-a3f2-bace098837b6" />
+
+
+
+* Stock Symbol: 002007.SZ
+* Prediction Days: 3
+* Units: Day
+* Model: LSTM-CNN-CBAM
+* Target Feature: Open Price
+<img width="1440" height="787" alt="Screenshot 2025-08-19 at 6 43 01 PM" src="https://github.com/user-attachments/assets/3b4540a9-aa2b-4117-9f4d-11b5b830678b" />
+<img width="1438" height="830" alt="Screenshot 2025-08-19 at 6 43 18 PM" src="https://github.com/user-attachments/assets/131edd05-e447-482a-acac-d18a05c012df" />
+<img width="1438" height="833" alt="Screenshot 2025-08-19 at 6 43 37 PM" src="https://github.com/user-attachments/assets/74b1fe65-741c-46d7-b7b9-69f71f338b97" />
 
 
 
