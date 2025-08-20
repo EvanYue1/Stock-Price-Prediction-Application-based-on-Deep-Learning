@@ -136,7 +136,7 @@ The system workflow integrates frontend requests, backend processing, neural net
 
 ### LSTM-CNN
 
-* CNN extracts features → LSTM captures temporal dependencies → FC for output
+* CNN extracts features → LSTM models time dependencies → FC layer output
 
 ### LSTM-CNN-CBAM
 
@@ -179,10 +179,53 @@ The system workflow integrates frontend requests, backend processing, neural net
 
 ---
 
-## self Learning & Multi-Stock Prediction
+## Self Learning & Multi-Stock Prediction
 
 * Automatically update models
 * New stocks trigger data collection & model training
 * Efficient model management prevents repeated loading
 
 ---
+
+## Prediction Effect
+
+
+
+---
+
+## effect display:
+
+* Stock Symbol: 000869.SZ
+* Prediction Days: 3
+* Units Day
+* Model: LSTM-CNN-CBAM
+* Target Feature: Open Price
+<img width="1440" height="790" alt="Screenshot 2025-08-19 at 6 27 00 PM" src="https://github.com/user-attachments/assets/86bdc98c-a181-4045-92ba-6d3517ee63af" />
+<img width="1438" height="837" alt="Screenshot 2025-08-19 at 6 27 23 PM" src="https://github.com/user-attachments/assets/6681ed88-5772-4e44-82d8-946e3c34f1da" />
+<img width="1440" height="835" alt="Screenshot 2025-08-19 at 6 27 40 PM" src="https://github.com/user-attachments/assets/31740e59-0a9a-4236-b885-d27c42b80457" />
+
+
+
+
+
+
+* Stock Symbol: 000869.SZ
+* Prediction Days: 3
+* Units: Day
+* Model: LSTM-CNN
+* Target Feature: Open Price
+<img width="1440" height="786" alt="Screenshot 2025-08-19 at 6 29 45 PM" src="https://github.com/user-attachments/assets/db4298a6-60b2-4042-8a2b-f3a7c8ed267d" />
+<img width="1439" height="831" alt="Screenshot 2025-08-19 at 6 29 59 PM" src="https://github.com/user-attachments/assets/7cf2f9e6-4d95-4d30-865a-271c2249e41d" />
+<img width="1439" height="832" alt="Screenshot 2025-08-19 at 6 30 13 PM" src="https://github.com/user-attachments/assets/292885d0-b01f-42e4-a3f2-bace098837b6" />
+
+
+
+
+
+
+
+
+
+
+
+
