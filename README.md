@@ -1,5 +1,12 @@
 # Stock Price Multi-Day Prediction Web Application Based on Deep Learning
 
+## System Demo Video
+
+A short demonstration of the system is available at:
+
+`videos/display.mp4`
+[System Demo Video](videos/display.mp4)
+
 ## Project Overview
 
 This is a web application for **multi-day stock price prediction**, using deep learning models to continuously forecast future stock prices with interactive visualization.
