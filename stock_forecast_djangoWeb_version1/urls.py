@@ -24,6 +24,8 @@ urlpatterns = [
     path("admin/", admin.site.urls),
 
 
+    path("", index.index),
+
     path("view/", index.index),
 
     # predict
